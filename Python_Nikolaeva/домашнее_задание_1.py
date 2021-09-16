@@ -8,5 +8,5 @@ test_number3 = int(test_number2 + 8)
 print('Делим на 2: ', test_number3 // 2)
 test_number4 = int(test_number3 // 2)
 print('И последнее... Отнимаем твое число и получается...: ', test_number4 - test_number1)
-
+print('Все работает')
 
